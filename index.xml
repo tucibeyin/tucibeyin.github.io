@@ -6,7 +6,20 @@
     <description>Recent content on Tuci Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 19:00:26 +0300</lastBuildDate><atom:link href="https://tucibeyin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Nov 2021 19:59:55 +0300</lastBuildDate>
+    
+	<atom:link href="https://tucibeyin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ucuncu</title>
+      <link>https://tucibeyin.github.io/posts/ucuncu/</link>
+      <pubDate>Sun, 14 Nov 2021 19:59:55 +0300</pubDate>
+      
+      <guid>https://tucibeyin.github.io/posts/ucuncu/</guid>
+      <description>Burasi icerik </description>
+    </item>
+    
     <item>
       <title>Ikinci Post</title>
       <link>https://tucibeyin.github.io/posts/ikinci-post/</link>
