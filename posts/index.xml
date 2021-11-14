@@ -6,7 +6,25 @@
     <description>Recent content in Posts on Tuci Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 19:00:26 +0300</lastBuildDate><atom:link href="https://tucibeyin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Nov 2021 20:21:54 +0300</lastBuildDate><atom:link href="https://tucibeyin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yeni Yazi</title>
+      <link>https://tucibeyin.github.io/posts/cok-daha-yeni-yazi/</link>
+      <pubDate>Sun, 14 Nov 2021 20:21:54 +0300</pubDate>
+      
+      <guid>https://tucibeyin.github.io/posts/cok-daha-yeni-yazi/</guid>
+      <description>Buraya yeni yazı gelecek!</description>
+    </item>
+    
+    <item>
+      <title>Yeni Yazi</title>
+      <link>https://tucibeyin.github.io/posts/yeni-yazi/</link>
+      <pubDate>Sun, 14 Nov 2021 20:21:54 +0300</pubDate>
+      
+      <guid>https://tucibeyin.github.io/posts/yeni-yazi/</guid>
+      <description>Buraya yeni yazı gelecek!</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://tucibeyin.github.io/posts/hello-world/</link>
