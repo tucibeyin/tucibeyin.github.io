@@ -21,20 +21,6 @@
     </item>
     
     <item>
-      <title>Ikinci Post</title>
-      <link>https://tucibeyin.github.io/posts/ikinci-post/</link>
-      <pubDate>Sun, 14 Nov 2021 19:00:26 +0300</pubDate>
-      
-      <guid>https://tucibeyin.github.io/posts/ikinci-post/</guid>
-      <description>An h1 header Paragraphs are separated by a blank line.
-2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
- this one that one the other one  Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.
- Block quotes are written like so.
-They can span multiple paragraphs, if you like.
- Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex.</description>
-    </item>
-    
-    <item>
       <title>Hello World</title>
       <link>https://tucibeyin.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 14 Nov 2021 18:41:09 +0300</pubDate>
